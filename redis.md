@@ -7,3 +7,5 @@ obter todas as keys: keys *
 obtendo um objeto pela chave: get <chave>
 
 deletando um objeto pela chave: del <chave>
+  
+deletar todos os objetos: flushall  
